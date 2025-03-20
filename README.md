@@ -1,6 +1,6 @@
 <!-- Title Section -->
 <!-- Title Section -->
-<h1 align="center">👋 Hi, <br>I'm Md. Mehedi Hasan!</h1>
+<h1 align="center">👋 Hi,<br>I'm Md. Mehedi Hasan!</h1>
 <p align="center">
   
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=30&pause=1000&center=true&vCenter=true&width=1000&lines=%22Basically%2C+I+hate+coding+and+know+nothing...%22)](https://git.io/typing-svg)
