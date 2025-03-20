@@ -14,7 +14,7 @@
 <!-- About Me -->
 <h2 align="center">About Me</h2>
 <p align="center">
-  I'm a passionate developer specializing in [Android App Development with JAVA, PHP, MySQL, AWS]. I love building cool projects and contributing to open-source communities. 🚀 <br> Fake about 😊
+  I'm a passionate developer specializing in [Android App Development with JAVA, PHP, MySQL, AWS]. I love building cool projects and contributing to open-source communities. 🚀 <br> <b> Fake about 😊</b>
 </p>
 
 
