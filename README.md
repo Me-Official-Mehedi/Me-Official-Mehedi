@@ -37,6 +37,7 @@
 
 <!-- Top Languages -->
 <h2 align="center">Top Languages</h2>
+<h3 align="center">On GitHub, the language badges or statistics shown for a repository only reflect public repositories</h3>
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Me-Official-Mehedi&layout=compact&theme=radical" alt="Top Languages">
 </p>
