@@ -72,7 +72,7 @@ Good stuff stays private 😎
 <!-- Open Source Contributions -->
 <h2 align="center">🤝 Open Source Contributions</h2>
 <p align="center">
-Nothing!!!
+<b>Nothing!!!</b>
 </p>
 
 <p align="center">
