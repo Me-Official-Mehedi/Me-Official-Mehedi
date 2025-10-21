@@ -63,9 +63,6 @@
 <!-- Featured Projects -->
 <h2 align="center">🚀 Featured Projects</h2>
 <p align="center">
-<b> Nothing!!!</b>
-</p>
-<p align="center">
 <b> Good stuff stays private 😎 
 “Not everything needs to be public.” </b>
 </p>
