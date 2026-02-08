@@ -33,12 +33,86 @@
 <p align="center">
 
 <!-- Top Languages -->
-<h2 align="center">Top Languages</h2>
-<p align="center">
-<h5 align="center">On GitHub, the language badges or statistics shown for a repository only reflect public repositories. If repository is private, the language won't be displayed publicly on your profile or on language badges.</h5>
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Me-Official-Mehedi&layout=compact&theme=radical" alt="Top Languages">
-</p>
+---
+
+<h2 align="center">💼 Skills & Technologies</h2>
+<table align="center">
+  <tr>
+    <td><strong>Languages</strong></td>
+    <td>
+      <img src="https://img.shields.io/badge/-C-00599C?style=flat&logo=c&logoColor=white">
+      <img src="https://img.shields.io/badge/-C++-00599C?style=flat&logo=c%2B%2B&logoColor=white">
+      <img src="https://img.shields.io/badge/-Java-007396?style=flat&logo=java&logoColor=white">
+      <img src="https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white">
+      <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black">
+      <img src="https://img.shields.io/badge/-TypeScript-3178C6?style=flat&logo=typescript&logoColor=white">
+    </td>
+  </tr>
+  <tr>
+    <td><strong>Frontend</strong></td>
+    <td>
+      <img src="https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white">
+      <img src="https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3&logoColor=white">
+      <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black">
+      <img src="https://img.shields.io/badge/-TypeScript-3178C6?style=flat&logo=typescript&logoColor=white">
+      <img src="https://img.shields.io/badge/-Next.js-000000?style=flat&logo=next.js&logoColor=white">
+      <img src="https://img.shields.io/badge/-Bootstrap-7952B3?style=flat&logo=bootstrap&logoColor=white">
+      <img src="https://img.shields.io/badge/-Material_UI-0081CB?style=flat&logo=mui&logoColor=white">
+    </td>
+  </tr>
+  <tr>
+    <td><strong>Backend</strong></td>
+    <td>
+      <img src="https://img.shields.io/badge/-Node.js-339933?style=flat&logo=node.js&logoColor=white">
+      <img src="https://img.shields.io/badge/-Flask-000000?style=flat&logo=flask&logoColor=white">
+      <img src="https://img.shields.io/badge/-Firebase-FFCA28?style=flat&logo=firebase&logoColor=white">
+      <img src="https://img.shields.io/badge/-REST_API-02569B?style=flat&logo=api&logoColor=white">
+      <img src="https://img.shields.io/badge/-PostgreSQL-336791?style=flat&logo=postgresql&logoColor=white">
+      <img src="https://img.shields.io/badge/-MySQL-4479A1?style=flat&logo=mysql&logoColor=white">
+    </td>
+  </tr>
+  <tr>
+    <td><strong>AI/ML & Data Science</strong></td>
+    <td>
+      <img src="https://img.shields.io/badge/-TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white">
+      <img src="https://img.shields.io/badge/-PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white">
+      <img src="https://img.shields.io/badge/-NumPy-013243?style=flat&logo=numpy&logoColor=white">
+      <img src="https://img.shields.io/badge/-Pandas-150458?style=flat&logo=pandas&logoColor=white">
+    </td>
+  </tr>
+  <tr>
+    <td><strong>Mobile</strong></td>
+    <td>
+      <img src="https://img.shields.io/badge/-Android_Development-3DDC84?style=flat&logo=android&logoColor=white">
+      <img src="https://img.shields.io/badge/-Jetpack_Compose-4285F4?style=flat&logo=android&logoColor=white">
+      <img src="https://img.shields.io/badge/-React_Native-61DAFB?style=flat&logo=react&logoColor=black">
+    </td>
+  </tr>
+  <tr>
+    <td><strong>Tools & Workflow</strong></td>
+    <td>
+      <img src="https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white">
+      <img src="https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&logoColor=white">
+      <img src="https://img.shields.io/badge/-VS_Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white">
+      <img src="https://img.shields.io/badge/-Android_Studio-3DDC84?style=flat&logo=android-studio&logoColor=white">
+      <img src="https://img.shields.io/badge/-Postman-FF6C37?style=flat&logo=postman&logoColor=white">
+      <img src="https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=docker&logoColor=white">
+      <img src="https://img.shields.io/badge/-Linux-FCC624?style=flat&logo=linux&logoColor=black">
+    </td>
+  </tr>
+  <tr>
+    <td><strong>Design</strong></td>
+    <td>
+      <img src="https://img.shields.io/badge/-Figma-F24E1E?style=flat&logo=figma&logoColor=white">
+      <img src="https://img.shields.io/badge/-Adobe_XD-FF61F6?style=flat&logo=adobe-xd&logoColor=white">
+      <img src="https://img.shields.io/badge/-Adobe_Photoshop-31A8FF?style=flat&logo=adobe-photoshop&logoColor=white">
+      <img src="https://img.shields.io/badge/-Adobe_Illustrator-FF9A00?style=flat&logo=adobe-illustrator&logoColor=white">
+      <img src="https://img.shields.io/badge/-Adobe_Premiere_Pro-9999FF?style=flat&logo=adobe-premiere-pro&logoColor=white">
+    </td>
+  </tr>
+</table>
+
+---
 
 <p align="center">
 
