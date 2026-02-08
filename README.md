@@ -45,11 +45,6 @@
   </a>
 </p>
 
-<p align="center">
-  <img src="https://github.com/Me-Official-Mehedi/Me-Official-Mehedi/blob/output/github-contribution-grid-snake-dark.svg" alt="Snake Animation">
-</p>
-
-
 <!-- Skills -->
 <h2 align="center">Skills</h2>
 <p align="center">
