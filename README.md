@@ -36,19 +36,19 @@
 
 <!-- Visitor Counter -->
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=nishatrhythm&color=blueviolet" alt="Visitor Counter">
-</p>
-
-<p align="center"><a href="https://yourinsights.vercel.app">
-  <img src="https://yourinsights.vercel.app/api/insight?username=nishatrhythm&theme=github_dark&graph=true&languages=true&streak=true&stats=true&header=true&summary=true&profile=false" alt="GitHub Insights" />
-</a>
+  <img src="https://komarev.com/ghpvc/?username=Me-Official-Mehedi&color=blueviolet" alt="Visitor Counter">
 </p>
 
 <p align="center">
-  <img src="https://github.com/nishatrhythm/nishatrhythm/blob/output/github-contribution-grid-snake-dark.svg" alt="Snake Animation">
+  <a href="https://yourinsights.vercel.app">
+    <img src="https://yourinsights.vercel.app/api/insight?username=Me-Official-Mehedi&theme=github_dark&graph=true&languages=true&streak=true&stats=true&header=true&summary=true&profile=false" alt="GitHub Insights" />
+  </a>
 </p>
 
 <p align="center">
+  <img src="https://github.com/Me-Official-Mehedi/Me-Official-Mehedi/blob/output/github-contribution-grid-snake-dark.svg" alt="Snake Animation">
+</p>
+
 
 <!-- Skills -->
 <h2 align="center">Skills</h2>
