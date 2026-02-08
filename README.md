@@ -30,21 +30,6 @@
 </div>
 </div>
 
-<p align="center">
-
-<h2 align="center">📊 GitHub Insights</h2>
-
-<!-- Visitor Counter -->
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Me-Official-Mehedi&color=blueviolet" alt="Visitor Counter">
-</p>
-
-<p align="center">
-  <a href="https://yourinsights.vercel.app">
-    <img src="https://yourinsights.vercel.app/api/insight?username=Me-Official-Mehedi&theme=github_dark&graph=true&languages=true&streak=true&stats=true&header=true&summary=true&profile=false" alt="GitHub Insights" />
-  </a>
-</p>
-
 <!-- Skills -->
 <h2 align="center">Skills</h2>
 <p align="center">
@@ -59,6 +44,22 @@
 </p>
 
 <p align="center">
+
+
+<h2 align="center">📊 GitHub Insights</h2>
+
+<!-- Visitor Counter -->
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Me-Official-Mehedi&color=blueviolet" alt="Visitor Counter">
+</p>
+
+<p align="center">
+  <a href="https://yourinsights.vercel.app">
+    <img src="https://yourinsights.vercel.app/api/insight?username=Me-Official-Mehedi&theme=github_dark&graph=true&languages=true&streak=true&stats=true&header=true&summary=true&profile=false" alt="GitHub Insights" />
+  </a>
+</p>
+
+
   
 <!-- Featured Projects -->
 <h2 align="center">🚀 Featured Projects</h2>
