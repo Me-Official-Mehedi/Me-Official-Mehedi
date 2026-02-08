@@ -83,8 +83,3 @@
 <p align="center">
   I enjoy coding while sipping coffee ☕ and listening to lo-fi beats 🎶.
 </p>
-
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Me-Official-Mehedi&label=Profile%20views&color=0e75b6&style=flat" alt="Me-Official-Mehedi" />
-</p>
