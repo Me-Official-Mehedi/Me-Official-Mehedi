@@ -20,16 +20,6 @@
 
 <p align="center">
 
-<!-- GitHub Stats -->
-<h2 align="center">GitHub Stats</h2>
-
-<p align="center">
-
-<div align="center">
-  <img src="https://github-readme-streak-stats-eight.vercel.app/?user=Me-Official-Mehedi&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" alt="streak graph"  />
-</div>
-</div>
-
 <!-- Skills -->
 <h2 align="center">Skills</h2>
 <p align="center">
